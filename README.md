@@ -27,7 +27,7 @@ Aplikasi untuk mencatat pemasukan & pengeluaran, menampilkan ringkasan keuangan,
 
 ---
 
-## Struktur Tabel MySQL (Contoh)
+## Struktur Tabel MySQL (Contoh) (ULID)
 
 ### users
 - id
