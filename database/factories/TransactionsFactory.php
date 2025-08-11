@@ -6,7 +6,7 @@ use App\Models\Transactions;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Illuminate\Support\Str;
 
-class TransactionFactory extends Factory
+class TransactionsFactory extends Factory
 {
 	protected $model = Transactions::class;
 
