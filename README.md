@@ -67,3 +67,5 @@ Aplikasi untuk mencatat pemasukan & pengeluaran, menampilkan ringkasan keuangan,
 - **Chart.js**: Grafik
 - **Carbon**: Manipulasi tanggal
 - **Bootstrap**
+
+## Projek Portofolio ini belum selesai!
